@@ -1,0 +1,6 @@
+Marca: aaa
+Modelo: aaa
+Ano: 123
+Placa: 321
+Km: 123
+Com: Ar condicionado Direção hidráulica Rádio Airbag
